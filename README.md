@@ -1,2 +1,5 @@
-# Python-Codes
-To store all my python codes.
+# C-codes
+A repository to store all my python code
+
+MENU                            
+=========================================
