@@ -1,5 +1,6 @@
+# Exercise 1
 # Opeations on a Line of text via string manipulation
-# Written on: 23/03
+# Version 1
 
 string = str(input("Enter a line of text without punctuation mark:\n"))
 

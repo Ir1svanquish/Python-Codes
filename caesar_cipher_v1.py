@@ -1,5 +1,5 @@
 # Caesar Cipher
-# Written on: 23/03
+# Version 1
 
 string = str(input("Enter a plain text to be encrypted:\n"))
 key = int(input("Enter a key in range [1, 25]:\n"))

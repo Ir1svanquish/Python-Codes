@@ -1,5 +1,5 @@
 # Vector Manipulation
-# Written on: 23/03
+# Version 1
 
 string_1 = input("Enter the vector A: ")
 string_2 = input("Enter the vector B: ")
