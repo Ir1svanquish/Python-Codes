@@ -13,11 +13,19 @@ print(list)
 # with the updated list printed out after each swapping
 for i in range(1, 10):
     noswapping = True
+<<<<<<< HEAD
     for j in range(10 - i):
         if list[j] > list[j + 1]:
             temp = list[j]
             list[j] = list[j + 1]
             list[j + 1] = temp
+=======
+    for j in range(10-i):
+        if list[j] > list[j+1]:
+            temp = list[j]
+            list[j] = list[j+1]
+            list[j+1] = temp
+>>>>>>> 379ee87476c79cf1b9552a0ad3122cce0dfe429e
             print(list)
             noswapping = False
     if noswapping:
