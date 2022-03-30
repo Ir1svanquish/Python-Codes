@@ -1,5 +1,5 @@
 # Printing a Histogram
-# Written on: 23/03
+# Version 1
 
 data = {"Centrial & Western" : 7, "Wan Chai" : 25, "Eastern" : 22, "Southern" : 8, \
         "Yau Tsim Mong" : 14, "Sham Shui Po" : 22, "Kowloon City" : 29, "Wong Tai Sin" : 6,\

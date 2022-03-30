@@ -1,5 +1,5 @@
 # Bubble Sort
-# Written on: 23/03
+# Version 1
 
 import random
 
