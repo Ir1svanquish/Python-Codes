@@ -1,10 +1,10 @@
-# Exercise 4
 # Evaluating a Test with Arrays
+# Version 1
 
 answer_0 = input("Enter the correct answers to the MC questions:\n")
 array_0 = list(answer_0)
 
-for i in range(1, 3):
+for i in range(1, 6):
     answer_1 = input(f"Enter the answers of Student-{i}:\n")
     array_1 = list(answer_1)
     correct = 0

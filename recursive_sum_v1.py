@@ -1,5 +1,5 @@
-# Exercise 1
 # Recursive Function to evaluate a finite sum
+# Version 1
 
 def fsum(x,n):
     if n == 1:

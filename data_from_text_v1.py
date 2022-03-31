@@ -1,5 +1,5 @@
-# Exercise 2
 # Manipulating the Data from a Text File
+# Version 1
 
 infile = open("HKFM.txt", "r")
 data = []

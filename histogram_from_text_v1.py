@@ -1,5 +1,5 @@
-# Exercise 3
-# Printing a Histogram to a Text File
+# Printing a Histogram to a Text file
+# Version 1
 
 infile = open("HKPop2020data.txt", "r")
 data = []
