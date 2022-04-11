@@ -1,6 +1,5 @@
-# Exercise 2
 # Converting Floating-Point Values to Monetary Amounts
-# Name: Chan kit Chi UID: 3035779167 Written on: 06/04
+# Version 1
 
 class MoneyFmt:
 

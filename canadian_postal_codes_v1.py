@@ -1,6 +1,5 @@
-# Exercise 1
 # Canadian Postal Codes
-# Name: Chan kit Chi UID: 3035779167 Written on: 06/04
+# Version 1
 
 code = input("Enter a Canadian postal code: ")
 code = code.replace(" ", "")
@@ -21,4 +20,3 @@ if area in area_dict:
         print("The second character in the postal code must be a digit!")
 else:
     print("The first character in the postal code is invalid!\nIt cannot be D, F, I, O, Q, U, W, or Z!")
-    

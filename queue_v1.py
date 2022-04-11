@@ -1,9 +1,8 @@
-# Exercise 3
 # Queue
-# Name: Chan kit Chi UID: 3035779167 Written on: 06/04
+# Version 1
 
 class Queue:
-    
+
     def __init__(self, maxsize = 10):
         self.qlst = []
         self.maxsize = maxsize
